@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bot-BasicBot-Pluggable-Module-Message.t
+lib/Bot/BasicBot/Pluggable/Module/Message.pm
+META.yml                                 Module meta-data (added by MakeMaker)

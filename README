@@ -1,0 +1,15 @@
+Bot-BasicBot-Pluggable-Module-Message version 0.01
+==================================================
+
+This module adds the ability for Bot::BasicBot::Pluggable IRC bots to accept
+messages from IRC users for other users who are offline, then the bot will
+tell the message to that user when he/she logs in next to a given channel.
+
+=head1 AUTHOR
+
+Gryphon Shafer (gryphon@cpan.org)
+
+=head1 LICENSE
+
+This library is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
